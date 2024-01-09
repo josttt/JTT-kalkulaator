@@ -1,1 +1,1 @@
-npm run start
+Pythagorose teoreemi kalkulaator
